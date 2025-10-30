@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **SMART HEALTH CARE ASSISTANT**
+- 🔭 I’m currently working on **Ai Plant Disease Prediction Chatbot**
 - 🌱 I’m currently learning **MACHINE LEARNING**
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 - 🤝 I’m looking for help with **AI/ML development**
