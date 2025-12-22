@@ -683,9 +683,28 @@ Other             0 hrs 30 mins  ░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-### 📊 Profile Stats
+### 📊 Profile Summary
 
-![Snake animation](https://raw.githubusercontent.com/karansrabcd01/karansrabcd01/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karansrabcd01&theme=radical" alt="Profile Summary" width="100%"/>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karansrabcd01&theme=radical" alt="Repos per Language"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karansrabcd01&theme=radical" alt="Most Commit Language"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karansrabcd01&theme=radical" alt="Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karansrabcd01&theme=radical" alt="Productive Time"/>
+</td>
+</tr>
+</table>
 
 <br>
 
