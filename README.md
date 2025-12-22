@@ -210,18 +210,46 @@ visualization = "Interactive real-time dashboard"
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Journey
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karansrabcd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansrabcd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karansrabcd&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="GitHub Streak" />
+### 🌱 Building My GitHub Presence
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karansrabcd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" />
+I'm actively working on uploading my AI/ML projects to GitHub. Check back soon for:
+- 🌿 Plant Disease Prediction System
+- 🌐 Multilingual Voice Translator
+- 📝 NLP-based Review Summarization
+- 📈 Stock Market Forecasting Models
+
+**Coming Soon:** Detailed repositories with complete documentation, notebooks, and deployment guides!
 
 </div>
+
+---
+
+## 📈 My Technical Achievements
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge&logo=github" />
+<br><strong>Completed Projects</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Accuracy-94%25-success?style=for-the-badge&logo=tensorflow" />
+<br><strong>Best Model Accuracy</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Internships-3-orange?style=for-the-badge&logo=microsoft" />
+<br><strong>Industry Experience</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Certifications-3+-red?style=for-the-badge&logo=coursera" />
+<br><strong>Professional Certs</strong>
+</td>
+</tr>
+</table>
 
 ---
 
