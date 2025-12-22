@@ -649,7 +649,6 @@ Other             0 hrs 30 mins  ░░░░░░░░░░░░░░░�
 </p>
 
 ### 📧 **Email:** karansrabcd@gmail.com
-### 📱 **Phone:** +91 6268428912
 ### 📍 **Location:** Durg, Chhattisgarh, India
 
 <br>
