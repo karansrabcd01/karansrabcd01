@@ -17,9 +17,6 @@
   <a href="https://github.com/karansrabcd01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
   </a>
-  <a href="tel:+916268428912">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Phone"/>
-  </a>
 </p>
 
 <!-- Profile Views & Followers -->
@@ -642,9 +639,6 @@ Other             0 hrs 30 mins  ░░░░░░░░░░░░░░░�
 </a>
 <a href="https://github.com/karansrabcd01">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-</a>
-<a href="tel:+916268428912">
-  <img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
 </a>
 </p>
 
