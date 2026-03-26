@@ -78,7 +78,7 @@ I operate on one principle: **execution is the teacher**. Every project I build 
 **🔬 Software Testing Intern** — *Prakalp Vision* `Nov 2025 – Present`
 > Cross-platform QA, defect lifecycle management, feature validation
 
-**🤖 AI Virtual Intern** — *Infosys Springboard* `Sep – Oct 2025` · **Top Performer**
+**🤖 AI Virtual Intern** — *Infosys Springboard* `Sep – Oct 2025` · 
 > Built plant disease prediction system · 94% accuracy · Recognized for innovation
 
 **☁️ AI Intern** — *Microsoft Azure (Edunet)* `May – Jun 2025`
@@ -91,7 +91,7 @@ I operate on one principle: **execution is the teacher**. Every project I build 
 - 🎓 **Machine Learning Specialization** — Andrew Ng · Stanford / Coursera (2024)
 - ☁️ **Azure AI Internship Certificate** — Microsoft / Edunet Foundation (2025)
 - 🚀 **Bhartiya Antariksh Hackathon** — ISRO National Participant (2025)
-- ⭐ **Top Performer Recognition** — Infosys Springboard AI Internship (2025)
+- ⭐ **AI Intern Certificate** — Infosys Springboard AI Internship (2025)
 
 ---
 
